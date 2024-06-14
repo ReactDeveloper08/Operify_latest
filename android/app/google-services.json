@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "356569512286",
+    "project_id": "operify-7dee5",
+    "storage_bucket": "operify-7dee5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356569512286:android:860545b9d9d4b6e977f7cf",
+        "android_client_info": {
+          "package_name": "com.doomshell.operify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6rhS3iw_-EJrH8cqnk7eaYEZN-E_x3i4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
