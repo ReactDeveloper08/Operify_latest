@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "tppl.app"
-               BlueprintName = "tppl"
-               ReferencedContainer = "container:tppl.xcodeproj">
+               BuildableName = "Operify.app"
+               BlueprintName = "Operify"
+               ReferencedContainer = "container:Operify.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "tpplTests.xctest"
-               BlueprintName = "tpplTests"
-               ReferencedContainer = "container:tppl.xcodeproj">
+               BuildableName = "OperifyTests.xctest"
+               BlueprintName = "OperifyTests"
+               ReferencedContainer = "container:Operify.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "tppl.app"
-            BlueprintName = "tppl"
-            ReferencedContainer = "container:tppl.xcodeproj">
+            BuildableName = "Operify.app"
+            BlueprintName = "Operify"
+            ReferencedContainer = "container:Operify.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "tppl.app"
-            BlueprintName = "tppl"
-            ReferencedContainer = "container:tppl.xcodeproj">
+            BuildableName = "Operify.app"
+            BlueprintName = "Operify"
+            ReferencedContainer = "container:Operify.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
